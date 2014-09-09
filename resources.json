@@ -3,5 +3,6 @@
     "main.css",
     "math.coffee",
     "array.coffee",
+    "./combnk/combnk.coffee",
     "main.coffee"
 ]

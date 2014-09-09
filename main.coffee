@@ -15,3 +15,9 @@ log10(a)
 zeros(3)
 end(a)
 rep(2,5)
+
+# combinations
+
+combnk = $blab.combnk
+
+combnk(4, 2)
